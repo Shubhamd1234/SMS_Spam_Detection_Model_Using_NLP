@@ -12,12 +12,12 @@ The dataset used for this project is sourced from **Kaggle**.
 
 ## **Work Flow**
 
-Step 1. **Importing the required libraries**
-Step 2. **Loading the Dataset**
-Step 3. **Basic Understanding of Data**
-Step 4. **Data Preprocessing**
-Step 5. **Exploratory Data Analysis (EDA) & Text Preprocessing**
-Step 6. **Model Training, Building, and Evaluation**
+**Step 1.**  **Importing the required libraries**
+**Step 2.** **Loading the Dataset**
+**Step 3.** **Basic Understanding of Data**
+**Step 4.** **Data Preprocessing**
+**Step 5.** **Exploratory Data Analysis (EDA) & Text Preprocessing**
+**Step 6.** **Model Training, Building, and Evaluation**
 
 ---
 
