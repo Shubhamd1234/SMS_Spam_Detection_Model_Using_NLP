@@ -22,7 +22,7 @@ The dataset used for this project is sourced from **Kaggle**.
 
 ---
 
-### **Key Tasks in Text Preprocessing:**
+### **Key Tasks in Text Preprocessing Using Natural Language Tool Kit Library (NLTK) :**
 
 - **Lowercasing** all text data
 - **Tokenization**: Splitting text into individual words
